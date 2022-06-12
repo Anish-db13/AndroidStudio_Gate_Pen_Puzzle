@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mooc.vandy.java4android.gate.logic.UnitTests" tests="16" skipped="0" failures="0" errors="0" timestamp="2022-06-10T05:19:38" hostname="LAPTOP-7EO4TG1C" time="0.045">
+  <properties/>
+  <testcase name="testGatesAreIndependent" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.001"/>
+  <testcase name="testThruOut" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.028"/>
+  <testcase name="testOpenOut" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.001"/>
+  <testcase name="testOpenClosed" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.001"/>
+  <testcase name="testGateConstructor" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.001"/>
+  <testcase name="testThruWhenClosed" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.001"/>
+  <testcase name="testCloseGate" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.001"/>
+  <testcase name="testGateToStringWhenInvalid" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.0"/>
+  <testcase name="testInvalidSwingParameter" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.0"/>
+  <testcase name="testSetSwingIn" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.001"/>
+  <testcase name="testGateToStringWhenOpenedOut" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.001"/>
+  <testcase name="testGateToStringWhenOpenedIn" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.0"/>
+  <testcase name="testSetSwingOut" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.0"/>
+  <testcase name="testOpenIn" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.001"/>
+  <testcase name="testGateToStringWhenClosed" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.002"/>
+  <testcase name="testThruIn" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
